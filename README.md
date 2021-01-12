@@ -1,5 +1,5 @@
 # Airpassenger_prediction
-Situation: This was an in-class competition where we had to predict airplane load for particular flights for an airplane, demand forecasting.
+textbf{Situation}: This was an in-class competition where we had to predict airplane load for particular flights for an airplane, demand forecasting.
 
 Task: The goal of the competition was to reach the lowest RMSE and the main challenge came from the very small initial data set. We only had access to the date, departure, arrival, and weather data of the flights. The initial benchmark with this data and a random forest was 0.6 RMSE, a competitive RMSE was 0.3. The key objectives were data retrieval, feature engineering and modeling. 
 
